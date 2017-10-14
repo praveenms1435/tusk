@@ -10,6 +10,9 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+		
+		//hai rahuls
+		
         // put your code here
         include_once 'database.php';
         include_once 'reg_model.php';
